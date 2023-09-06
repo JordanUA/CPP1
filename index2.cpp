@@ -10,6 +10,6 @@ int main()
   
   
   double result = 0;
-  result = ((0.81*sqrt(3), a)-(1/2.125)*(sqrt(3), b))*exp(a);
+  result = ((0.81 * sqrt(3) * a) - (1 / 2.125) * (sqrt(3) * b)) * exp(a);
   std::cout<<result;
 }
